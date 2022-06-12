@@ -1,0 +1,5 @@
+- SOLID Principle
+- Android Studio Sebagai IDE
+- Code Conventions Pada Android Studio
+- Design UI Pada Android
+- GIT
